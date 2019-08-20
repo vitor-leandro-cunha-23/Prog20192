@@ -27,7 +27,7 @@ if (botao1Apertado and botao2Apertado):
 
 print("Fim de programa!!!")'''
 
-strLazy        = input("Você é uma pessoa preguiçosa? ")
+'''strLazy        = input("Você é uma pessoa preguiçosa? ")
 strIntelligent = input("Você é uma pessoa inteligente? ")
 
 if(strLazy == "n" and strIntelligent == "n"):
@@ -37,4 +37,25 @@ if(strLazy == "n" and strIntelligent == "s"):
 if(strLazy == "s" and strIntelligent == "n"):
     print("Você é preguiçoso, mas não inteligente\n")
 
-print("Fim do programa")
+print("Fim do programa")'''
+
+'''logicValue = int(input("Você é inteligente?\n"))
+
+if(logicValue):
+    print("Você é inteligente\n")
+else:
+    print("Você não é inteligente\n")
+
+    print("Fim do programa")'''
+
+'''numeroMenor = int(input("Digite um numero menor que 5:"))
+if numeroMenor > 5:
+    print("Ops!\n")
+    print("O numero digitado é maior que 5")
+else:
+    print("Numero digitado foi:", numeroMenor)
+
+print("Fim de programa!")'''
+
+
+
